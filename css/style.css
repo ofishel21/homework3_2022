@@ -86,7 +86,8 @@ a.skip{
   transition: left 1s ease-out;
   z-index: 1;
   position: absolute;
-  transform: translateX(-500px);
+  top: 20px;
+  left: -500px;
 }
 
 
